@@ -1,7 +1,6 @@
 # marge_test
 
-hogehoge
-ふにふに
+test
 
-ほげほげ
-kani branch 
+
+
