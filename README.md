@@ -1,10 +1,14 @@
 # marge_test
 
-hogehoge
-ふにふに
+test
 
-ほげほげ
-kani branch 
+こんふりくと
+
+オフラインで編集したやつ
 
 いまさら win を編集した
+
+両方をとりいれてマージした
+
+
 
