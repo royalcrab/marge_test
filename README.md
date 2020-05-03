@@ -13,6 +13,7 @@ test
 {一方の mbp も別の編集を続けた
 marge しないで続ける win} 両方取りいれたよ
 
+master の変更
 
 
 
